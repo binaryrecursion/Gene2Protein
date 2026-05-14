@@ -1,0 +1,3 @@
+tx_id	tx_biotype	tx_seq_start	tx_seq_end	tx_cds_seq_start	tx_cds_seq_end	gene_id	tx_support_level	tx_id_version	gc_content	tx_external_name	tx_is_canonical	tx_name	gene_name
+LRG_390t1	LRG_gene	118548279	118560424	118558922	118559080	LRG_390	NA	LRG_390t1.1	33.0805134189032	NA	1	LRG_390t1	PLN
+ENST00000357525	protein_coding	118548296	118561716	118558922	118559080	ENSG00000198523	1	ENST00000357525.6	31.7497490799599	PLN-201	1	ENST00000357525	PLN
